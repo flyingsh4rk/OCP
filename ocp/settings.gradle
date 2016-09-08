@@ -1,0 +1,3 @@
+include 'classDesign'
+rootProject.name = 'ocp'
+
